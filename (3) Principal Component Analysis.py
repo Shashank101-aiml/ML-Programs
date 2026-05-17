@@ -1,5 +1,5 @@
-program to implement Principal Component Analysis(PCA) for reducing the dimensionality of the iris dataset from 4 features to 2.
-CODE:
+#program to implement Principal Component Analysis(PCA) for reducing the dimensionality of the iris dataset from 4 features to 2.
+#CODE:
 #import the required libraries
 import numpy as np
 import matplotlib.pyplot as plt
