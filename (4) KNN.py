@@ -1,11 +1,11 @@
-A program to load the Iris dataset. Implement the k-Nearest Neighbors
-(k-NN) algorithm for classifying flowers based on their features. Split the dataset
-into training and testing sets and evaluate the model using metrics like accuracy
-and F1-score. Test it for different values of k (e.g., k=1,3,5) and evaluate the
-accuracy. Extend the k-NN algorithm to assign weights based on the distance of
-neighbors (e.g., weight=1/d2). Compare the performance of weighted k-NN and regular k-NN on a synthetic or real-world dataset.
+#A program to load the Iris dataset. Implement the k-Nearest Neighbors
+#(k-NN) algorithm for classifying flowers based on their features. Split the dataset
+#into training and testing sets and evaluate the model using metrics like accuracy
+#and F1-score. Test it for different values of k (e.g., k=1,3,5) and evaluate the
+#accuracy. Extend the k-NN algorithm to assign weights based on the distance of
+#neighbors (e.g., weight=1/d2). Compare the performance of weighted k-NN and regular k-NN on a synthetic or real-world dataset.
 
-Code:
+#Code:
 #import the required libraries
 import pandas as pd
 import numpy as np
